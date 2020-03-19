@@ -5,3 +5,8 @@ A collection of shader tutorials for Unity!
 * [Greyscale](https://github.com/thorkdev/shader-tuts/tree/master/SpriteGreyscale) ![alt text](https://github.com/thorkdev/shader-tuts/blob/master/SpriteGreyscale/sprite_greyscale_tutorial.gif "Sprite Greyscale Tutorial")
 
 ---
+
+## Screen Shaders
+* [Palette](https://github.com/thorkdev/shader-tuts/tree/master/PaletteScreenShader) ![alt text](https://github.com/thorkdev/shader-tuts/blob/master/PaletteScreenShader/palette_example.png "Pallete Example")
+
+---
