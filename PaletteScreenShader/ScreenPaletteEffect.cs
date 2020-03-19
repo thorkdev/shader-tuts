@@ -3,7 +3,13 @@
 [ExecuteInEditMode]
 public class ScreenPaletteEffect : MonoBehaviour
 {
-    public Color[] colors = new Color[8];
+    public Color[] colors = new Color[4]
+    {
+        Color.white,
+        Color.white,
+        Color.white,
+        Color.white
+    };
 
     [Range(0f, 1f)]
     public float intensity = 1f;
